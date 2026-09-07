@@ -1,0 +1,4 @@
+ip,reputation,source,notes
+185.220.101.4,malicious,internal_watchlist,Known Tor exit node used in prior brute-force campaigns
+45.155.205.87,malicious,internal_watchlist,Flagged in abuse.ch feed for SSH scanning
+91.240.118.33,suspicious,internal_watchlist,Repeated failed auth attempts across client fleet
